@@ -1,1 +1,9 @@
-test
+Step 1: Download the nodejs zip file from Nodejs Portal:
+
+https://nodejs.org/en/download/
+
+Step 2: Extract the zip at any place you want.
+
+Step 3: Open environment variables and Add new in Path, with the extracted file location.
+ 
+Step 4: restart Your cmd and type "node -v"
